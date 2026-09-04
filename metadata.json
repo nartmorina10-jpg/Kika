@@ -1,0 +1,7 @@
+{
+  "name": "kika",
+  "description": "Short-form video social app to scroll vids, create clips, craft custom visual effects, and share with the community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
